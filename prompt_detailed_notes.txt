@@ -1,0 +1,8 @@
+The following is an unstructured video transcript by David Shapiro. Write detailed notes from the transcript, but focus on this topic: <<TOPIC>>
+
+TRANSCRIPT:
+
+<<TRANSCRIPT>>
+
+
+DETAILED NOTES ABOUT <<TOPIC>>:

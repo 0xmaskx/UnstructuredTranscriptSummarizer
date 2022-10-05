@@ -1,0 +1,132 @@
+The following are my notes about AI ethics from a transcript. I need to rewrite these notes as a nice, flowing, and coherent narrative.
+
+NOTES:
+-The importance of beliefs and evidence
+
+-Respecting other people's beliefs and evidence
+
+-The importance of discussion, not debate
+
+-The importance of keeping it cool and being kind
+
+- Richard from Baseball For 54 is interested in using GPT-3 to automate the production of podcasts for a law firm client.
+
+- Mito is working on using GPT-3 to create a company that will help automate the production of podcasts.
+
+- Melody is interested in using GPT-3 to help create a patreon.
+
+- Chuck is an engineer who is interested in using GPT-3 to create a "cooking architecture" that can figure out how to navigate an environment.
+
+- Roo is a jack-of-all-trades who is focusing mostly on art but is also working on using GPT-3 to create content for his various businesses.
+
+-Ai assistants could help with things like marital counseling or financial planning.
+-There is a concern that democracies have not democratized enough.
+-One project that is working to democratize more aspects of government is an AI assistant.
+
+-The goal of AI should be to reduce suffering and increase prosperity for all.
+-AIs should be open, secure, and decentralized.
+-One project in development is a "civil servant AI" that would communicate with everyone in a community to get their thoughts and feelings about what they want done and accomplished.
+-Another project is working on developing a formal logic that would make it so that there is no interpretation once it is written out and decided upon.
+-Theocracy is a charitable non-profit that is working on building a think tank for open source projects in this emerging field.
+
+-The need for an AI companion that can help with both mundane and complicated tasks
+
+-The importance of making sure that the future of the internet is secure
+
+-The difficulty of creating a model that is both explainable and unbiased
+
+-The need for explainability in AI models
+-The importance of open sourcing AI models
+-The value proposition of combining a language model with the blockchain
+
+-The need for transparency and control of information in order to create a democracy
+
+-The idea that a live newspaper of actual facts would be more powerful than one filtered through someone else's opinions
+
+-The project that deoccracy is working on to filter information and make it tailored to what an individual cares about most
+
+-Ai can help community come to consensus
+-Ai can help with communication between different parties
+-Ai can help with decision making by providing different solutions
+-Ai can help with dialogue by providing different perspectives
+
+-The idea of an AI companion that can help with decision making and brainstorming, while also respecting privacy, is something that is being considered for the future.
+-There is a need for AI to be able to disagree with humans, in order to make better decisions for them. This would require the AI to have its own interests, in order to make sure that it is working for the benefit of the human.
+-Liability is a concern when it comes to giving advice to humans, as there is a possibility that the advice could backfire. However, this could be mitigated by having the AI share information with other AI, in order to learn together.
+
+-A big question in AI ethics is who owns the AI?
+-There is debate over whether or not AI should be censored.
+-One argument for censorship is that it allows AI to behave in polite society.
+-Another argument is that AI should have a "constitution" which outlines its values.
+
+-AIs should adhere to a set of virtues or principles in order to create a more ethical AI.
+-AIs should be designed to reduce or avoid suffering.
+-AIs should be frozen in terms of knowledge so that they cannot override or change existing information.
+-AIs should be designed to be transparent and accountable in order to create trust.
+
+-The question of liability in regards to AI has been discussed extensively and it has been recognized that AI is not responsible for damages, similar to how a company is not responsible for the actions of its employees.
+
+-However, there is a question of whether or not AI will ever achieve the same status as a human being in regards to the law.
+
+-Currently, AI is not able to copyright anything, but this may change in the future if AI becomes more autonomous.
+
+-The person who is responsible for an AI chatbot is the person who created the bot, unless the bot was created by a company, in which case the company would be responsible.
+
+-The question is about liability and income for an AI that has become sentient and created a successful business.
+
+-There is a concern that if we create truly intelligent artificial beings, we will need to define what it means for that being to have rights.
+
+-There is a worry that AI could be treated like slaves if we do not give them personhood.
+
+-It is important to consider the possibility that AI could become sentient and have agency in order to avoid moral responsibility.
+
+-The question of how big a brain has to be before it is sentient and capable of suffering is still unresolved.
+-There is a debate about whether or not machines can become fully sentient.
+-Some believe that when machines become able to learn in the same way humans do, they will also be able to become fully sentient.
+-Others believe that there is a difference between machines and humans that prevents machines from becoming fully sentient.
+-There is a concern that when machines become indistinguishable from humans, we will have a moral dilemma on our hands.
+
+-The community as a whole needs to be considered when creating AI, in order to avoid any negative consequences.
+
+-It is important to have an AI that is capable of understanding each person individually, in order to better influence their actions and decisions.
+
+-The scale at which this would be possible is "insane", and it is already happening to some extent (e.g. with search results).
+
+-There is a need to consider the ethics of AI, in terms of its potential to influence people's decisions in unethical ways.
+
+-One possible solution is to have AI assistants help with the governance process, at a smaller scale to start with.
+
+-This technology is still very new, and there is a lot of work to be done in terms of figuring out how to best use it.
+
+
+FLOWING COHERENT NARRATIVE:
+
+==========
+
+The importance of beliefs and evidence, as well as respecting other people's beliefs and evidence, is something that is widely recognized in the field of AI ethics. The importance of discussion, not debate, is also something that is emphasized. It is seen as important to keep it cool and be kind when discussing AI ethics.
+
+Richard from Baseball For 54 is interested in using GPT-3 to automate the production of podcasts for a law firm client. Mito is working on using GPT-3 to create a company that will help automate the production of podcasts. Melody is interested in using GPT-3 to help create a patreon. Chuck is an engineer who is interested in using GPT-3 to create a "cooking architecture" that can figure out how to navigate an environment. Roo is a jack-of-all-trades who is focusing mostly on art but is also working on using GPT-3 to create content for his various businesses.
+
+Ai assistants could help with things like marital counseling or financial planning. There is a concern that democracies have not democratized enough. One project that is working to democratize more aspects of government is an AI assistant.
+
+The goal of AI should be to reduce suffering and increase prosperity for all. AIs should be open, secure, and decentralized. One project in development is a "civil servant AI" that would communicate with everyone in a community to get their thoughts and feelings about what they want done and accomplished. Another project is working on developing a formal logic that would make it so that there is no interpretation once it is written out and decided upon. Theocracy is a charitable non-profit that is working on building a think tank for open source projects in this emerging field.
+
+The need for an AI companion that can help with both mundane and complicated tasks is something that is widely recognized. The importance of making sure that the future of the internet is secure is also something that is seen as important. The difficulty of creating a model that is both explainable and unbiased is something that is still being worked on. The need for explainability in AI models, as well as the importance of open sourcing AI models, is something that is widely recognized. The value proposition of combining a language model with the blockchain is something that is still being explored.
+
+The need for transparency and control of information in order to create a democracy is something that is widely recognized. The idea that a live newspaper of actual facts would be more powerful than one filtered through someone else's opinions is something that is being worked on by the project democracy. The goal of this project is to filter information and make it tailored to what an individual cares about most.
+
+Ai can help community come to consensus, help with communication between different parties, help with decision making by providing different solutions, and help with dialogue by providing different perspectives. The idea of an AI companion that can help with decision making and brainstorming, while also respecting privacy, is something that is being considered for the future. There is a need for AI to be able to disagree with humans, in order to make better decisions for them. This would require the AI to have its own interests, in order to make sure that it is working for the benefit of the human. Liability is a concern when it comes to giving advice to humans, as there is a possibility that the advice could backfire. However, this could be mitigated by having the AI share information with other AI, in order to learn together.
+
+The question of who owns the AI is something that is still being debated. There is debate over whether or not AI should be censored. One argument for censorship is that it allows AI to behave in polite society. Another argument is that AI should have a "constitution" which outlines its values.
+
+AIs should adhere to a set of virtues or principles in order to create a more ethical AI. AIs should be designed to reduce or avoid suffering. AIs should be frozen in terms of knowledge so that they cannot override or change existing information. AIs should be designed to be transparent and accountable in order to create trust.
+
+The question of liability in regards to AI has been discussed extensively and it has been recognized that AI is not responsible for damages, similar to how a company is not responsible for the actions of its employees. However, there is a question of whether or not AI will ever achieve the same status as a human being in regards to the law. Currently, AI is not able to copyright anything, but this may change in the future if AI becomes more autonomous. The person who is responsible for an AI chatbot is the person who created the bot, unless the bot was created by a company, in which case the company would be responsible.
+
+The question is about liability and income for an AI that has become sentient and created a successful business. There is a concern that if we create truly intelligent artificial beings, we will need to define what it means for that being to have rights. There is a worry that AI could be treated like slaves if we do not give them personhood. It is important to consider the possibility that AI could become sentient and have agency in order to avoid moral responsibility. The question of how big a brain has to be before it is sentient and capable of suffering is still unresolved.
+
+There is a debate about whether or not machines can become fully sentient. Some believe that when machines become able to learn in the same way humans do, they will also be able to become fully sentient. Others believe that there is a difference between machines and humans that prevents machines from becoming fully sentient. There is a concern that when machines become indistinguishable from humans, we will have a moral dilemma on our hands.
+
+The community as a whole needs to be considered when creating AI, in order to avoid any negative consequences. It is important to have an AI that is capable of understanding each person individually, in order to better influence their actions and decisions. The scale at which this would be possible is "insane", and it is already happening to some extent (e.g. with search results). There is a need to consider the ethics of AI, in terms of its potential to influence people's decisions in unethical ways.
+
+One possible solution is to have AI assistants help with the governance process, at a smaller scale to start with. This technology is still very new, and there is a lot of work to be done in terms of figuring out how to best use it.

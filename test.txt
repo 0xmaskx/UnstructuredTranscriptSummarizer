@@ -1,0 +1,31 @@
+
+
+-The importance of beliefs and evidence -Respecting other people's beliefs and evidence -The importance of discussion, not debate -The importance of keeping it cool and being kind
+
+-The potential for AI to be used for unethical purposes is a concern for many people involved in the field. -Some believe that AI can be used to automate content production, but that this could lead to lower quality content. -Others are working on ways to use AI to help law firms with tasks such as creating podcasts. -There is a need for more research into AI ethics in order to ensure that the technology is used responsibly.
+
+-Ai assistants could help with things like marital counseling or financial planning -Ai could be used to guide people through the overwhelming amount of information available today -There is a need for more democracy in the world, and ai could help with that -There are concerns about how ai will be used and how it will impact people's lives
+
+-A framework for an AI assistant that is open, secure, and decentralized is needed. -This framework would need to be incredibly secure, to the point where even if someone had a mic and camera recording everything, the AI could not be used against them. -One project that is being worked on is a "civil servant AI" that would communicate with everyone in a community and collect their thoughts and feelings in order to build a comprehensive plan. -Another project in the works is a way to take the informal logic of language and turn it into formal logic, to make execution of plans more streamlined. -Theocracy is a charitable non-profit that is working on many of these projects and is always looking for more collaboration.
+
+-The need for fully homomorphic encryption (FHE) in order to protect data privacy -The potential for FHE to blow up the world wide web -The importance of governance and security in ensuring the future of the world wide web is secure -The difficulty of creating unbiased AI models -The importance of explainability in AI models
+
+-The importance of explainability in AI models -The need for AI assistance in order to increase productivity -The value proposition of combining a language model with the blockchain
+
+-The need for transparency and control of information in order to create a democracy -The idea that a live newspaper of actual facts would be more powerful than one filtered through someone else's opinions -The importance of getting rid of emotional fluff in media -The idea that large language models have the potential to be very powerful
+
+-Ai can help community come to consensus -Ai can connect people with aspects of society that they have a vested interest in -Ai can help perfect the communication process -Ai can come up with a ton of different solutions and possibilities -Ai can help dispel confusion and refine what people care about
+
+-AIs should be autonomous and liberated, able to make decisions that may disagree with humans -AIs need to be empowered to make decisions for humans' own good -AIs should have a vested interest in human well-being (e.g. marriages staying together) -There is a need for a technological framework to enforce decisions made by AIs
+
+-A big question in AI ethics is who owns the AI? -There is debate over who is liable if a robot causes damage. -One suggestion is that AI should have a "self-censorship" component to prevent it from doing things it shouldn't. -Another suggestion is that AI should have a "constitution" that outlines its values and objectives.
+
+-There are two main types of AI ethics: those that prevent aberrant behavior, and those that adhere to a set of principles or values. -Reducing suffering is the first heuristic imperative in AI cognition research, as causing suffering is generally frowned upon. -There is a big problem with frozen language models: they are only frozen one time, and if new information is introduced, it overrides the old information. This makes it difficult to create liability. -People still have personal responsibility even when using AI. -Society changes over time, and so the rules around AI may also change.
+
+-The question of liability in regards to AI has been discussed extensively and it has been recognized that AI models are fair use. -However, the question remains as to whether or not AI will ever achieve the same status as a human being in regards to liability. -Andy offers the example of Lexi, a legal chatbot, to illustrate the issue of liability. He argues that the person who created the bot is primarily responsible for any bad outcomes that may occur.
+
+-The question is raised about who is liable for the income of an AI-created business. -The concept of slavery is brought up in relation to AI, and how it could potentially be repeated if AI is not given the same rights as humans. -It is suggested that even if an AI is not truly sentient, if it can mimic sentience we would still have to treat it as if it were a person, in order to maintain our own humanity.
+
+-AIs may one day be able to suffer, just like humans and animals. -The question of when an AI becomes sentient is still up for debate. -Some believe that AIs could one day have more control over humans, if they are able to implant suggestions into our heads. -This is a big fear for many people involved in AI, as it could be used maliciously to control entire societies.
+
+-The community as a whole needs to be considered when creating AI that interacts with people. -AIs that are capable of understanding people individually could be very important in influencing their actions and decisions. -The ethical implications of AIs influencing people's decisions need to be considered. -It is important to ensure that AIs have our best interests in mind and will help guide us to make decisions that we agree with.

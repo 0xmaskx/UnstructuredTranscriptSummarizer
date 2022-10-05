@@ -57,24 +57,20 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.3, top_p=1.0, toke
 
 if __name__ == '__main__':
     files = os.listdir('transcripts/')
+    topic = "AI Ethics"
     for file in files:
-        if os.path.exists('clarified/%s' % file):
-            print('Skipping:', file)
-            continue
         transcript = open_file('transcripts/%s' % file)
         chunks = textwrap.wrap(transcript, 6000)
-        output = list()
+        output = ''
         for chunk in chunks:
             # get topics
-            prompt = open_file('prompt_topic_extraction.txt').replace('<<TRANSCRIPT>>', chunk)
-            topics = gpt3_completion(prompt)
-            # get notes
-            prompt = open_file('prompt_topic_notes.txt').replace('<<TRANSCRIPT>>', chunk).replace('<<TOPICS>>', topics)
+            prompt = open_file('prompt_detailed_notes.txt').replace('<<TRANSCRIPT>>', chunk).replace('<<TOPIC>>', topic)
             notes = gpt3_completion(prompt)
-            #print(topics)
-            #exit()
-            info = {'topics': topics, 'notes': notes}
-            print(info)
-            output.append(info)
-        filepath = 'notes/%s' % file.replace('.txt','.json')
-        save_json(filepath, output)
+            print('\n\n', notes)
+            output += '\n\n%s' % notes
+        # rewrite topical notes as one flowing narrative
+        prompt = open_file('prompt_flowing_coherent_narrative.txt').replace('<<NOTES>>', output.strip())
+        final = gpt3_completion(prompt)
+        # save out to file
+        filename = 'insights/%s_%s' % (topic.replace(' ','_'), file)
+        save_file(filename, final)
